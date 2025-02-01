@@ -26,6 +26,21 @@
 			"domain_files": ["daybreak.txt"]
 		},
 		{
+			"name": "epicgames",
+			"description": "CDN for Epic Games",
+			"domain_files": ["epicgames.txt"]
+		},
+		{
+			"name": "frontier",
+			"description": "CDN for frontier games",
+			"domain_files": ["frontier.txt"]
+		},
+		{
+			"name": "nexusmods",
+			"description": "Nexus mods / skyrim content",
+			"domain_files": ["nexusmods.txt"]
+		},
+		{
 			"name": "neverwinter",
 			"description": "Cryptic CDN for Neverwinter",
 			"domain_files": ["neverwinter.txt"]
@@ -73,6 +88,11 @@
 			"domain_files": ["square.txt"]
 		},
 		{
+			"name": "steam",
+			"description": "CDN for steam platform",
+			"domain_files": ["steam.txt"]
+		},
+		{
 			"name": "uplay",
 			"description": "CDN for uplay downloader",
 			"domain_files": ["uplay.txt"]
@@ -91,6 +111,11 @@
 			"name": "wargaming",
 			"description": "CDN for wargaming.net",
 			"domain_files": ["wargaming.net.txt"]
+		},
+		{
+			"name": "wsus",
+			"description": "CDN for windows updates",
+			"domain_files": ["windowsupdates.txt"]
 		},
 		{
 			"name": "xboxlive",
